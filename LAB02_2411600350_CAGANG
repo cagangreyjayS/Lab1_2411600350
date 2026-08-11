@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My portfolio - Reyjay Cagang</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header>
+        <h1> REYJAY CAGANG</h1>
+        <p> Bsit Student / Learning on how technology works</p>
+    </header>
+
+    <nav>
+        <a href="home">Home</a>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="project">Project</a>
+        <a href="contact">Contact</a>
+    </nav>
+    <main>
+     
+        <section id="home">
+            <h2> About Me</h2>
+            <p>Hi! My Name is Reyjay Cagang. I am Bsit  student in Ramon 
+                Magsasay Memorial College and Now I am learning on how technology
+                works.
+            </p>
+        </section>
+
+        </section id="skills">
+        <h2>My Skills</h2>
+        <ul>
+        <li>
+            <strong>Communication</strong>
+            </li>
+            <li>
+                <strong>Team work</strong>
+            </li>
+            <li>
+                <strong>Patience</strong>
+        </li>
+        </ul>
+         <section id="project">
+            <h2> My Project</h2>
+            <article>
+                <h3>Project 1: Basic Html Website</h3>
+                <p>simple webpage created using Html.</p>
+            </article>
+            <article>
+                <h3>Project 2: Personal Portfolio</h3>
+                <p> Personal webpage that presents my information.</p>
+            </article>
+            <article>
+                <h3> Project 3: Java Programming</h3>
+                <p> A programming project created while learning Java.</p>
+            </article>
+            <section id="contact">
+                <h2>Contact Me</h2>
+                <p>Email: cagangreyjay@gmail.com</p>
+            </section>
+            <aside>
+                <h2>Quick Facts</h2>
+                <p><strong>Course:</strong>Bsit</p>
+                <p><strong>Year Level:</strong>3rd Year</p>
+                <p><strong>Interest:</strong>Learning about technology</p>
+                <p><strong>Favorite Quote:</strong> Keep learning and keep improving</p>
+            </aside>
+    </main>
+    <footer>
+        <p> &copy; 2026 Reyjay Cagang. All right reserved.</p>
+        <p>Last Updated, August 2026</p>
+
+    </footer>
+ 
+</body>
+</html>
