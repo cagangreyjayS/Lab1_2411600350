@@ -28,6 +28,8 @@
                         </label>
 
                         <div class="input-group">
+                        <span class="input-group-text">
+                            </span>
                             <input
                                 type="text"
                                 class="form-control"
@@ -45,6 +47,8 @@
                         </label>
 
                         <div class="input-group">
+                        <span class="input-group-text
+                        </span>
                             <input
                                 type="password"
                                 class="form-control"
